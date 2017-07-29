@@ -2,7 +2,7 @@
 title: All is well
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: ""  
+description: "Allen's blog"  
 baseurl: ""
 url: "http://zlphoenix.github.io"  
 
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
-twitter_username: 
+douban_username:  zlphoenix
+twitter_username: "@_AllenZhou"
 github_username: zlphoenix
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+facebook_username: AllenZh0u
+weibo_username: A11enZh0u
+zhihu_username: Allen
 
 # Build settings  
 # use Github Flavored Markdown !important  
